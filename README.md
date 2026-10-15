@@ -1,4 +1,4 @@
-# Cnvensor-de-unidades.
+# Conversor-de-unidades.
 Un conversor de unidades interactivo y sencillo diseñado para realizar conversiones de manera rápida y eficiente entre distintas escalas de medición (como longitud, peso, temperatura, entre otras).
 
 ---
